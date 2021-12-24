@@ -12,10 +12,6 @@ For this app you should be familiar with:
 * Building and running your app in Android Studio, in both an emulator and on a device.
 * Adding log statements and viewing the system log (logcat) in Android Monitor.
 
-Getting Started
----------------
-
-1. Download and open this sample in Android Studio.
 
 License
 -------
