@@ -1,4 +1,4 @@
-# Calculator-java
+# SimpleCalc - resolved
 
 SimpleCalc - Starter Code
 =========================
